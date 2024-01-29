@@ -1,5 +1,4 @@
-# ExplorerApi
-ABM CUSTOMERS
+# ABM CUSTOMERS
 
 ## Scripts
 Copernicus.sql: Script para crear la base de datos
